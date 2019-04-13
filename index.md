@@ -50,13 +50,13 @@ Django
 
 **その他**
 
-Photoshop
-Illustrator
-Unity(少し)
+Photoshop  
+Illustrator  
+Unity(少し)  
 
 ## 資格
-ITパスポート
-基本情報技術者
+ITパスポート  
+基本情報技術者  
 
 ## SNS
 Twitter: https://twitter.com/yanashi_masa
