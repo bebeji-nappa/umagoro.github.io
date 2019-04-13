@@ -1,7 +1,6 @@
 ---
 
 title: I'm Yanashi.
-repository_url: https://github.com/umagoro
 
 ---
 
