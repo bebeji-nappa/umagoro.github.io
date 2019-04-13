@@ -25,7 +25,7 @@
 現在に至る。
 
 ## スキル
-**・言語**
+**言語**
 
 HTML5/CSS3
 Swift
@@ -41,14 +41,14 @@ Elm(入門中)
 ReactNative
 C#
 
-**・フレームワーク**
+**フレームワーク**
 
 Ruby on Rails
 Laravel
 Play framework
 Django
 
-**・その他**
+**その他**
 
 Photoshop
 Illustrator
