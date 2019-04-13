@@ -1,6 +1,7 @@
 ---
 title: I'm Yanashi.
-github: https://github.com/umagoro
+github: 
+  repository_url: https://github.com/umagoro
 ---
 
 # Yanashi
