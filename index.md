@@ -1,5 +1,5 @@
 ---
-title: やなし
+title: I'm Yanashi.
 ---
 
 # Yanashi
