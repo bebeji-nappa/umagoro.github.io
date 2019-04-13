@@ -59,4 +59,4 @@ ITパスポート
 基本情報技術者  
 
 ## SNS
-Twitter: https://twitter.com/yanashi_masa
+Twitter: [@yanashi_masa](https://twitter.com/yanashi_masa)
