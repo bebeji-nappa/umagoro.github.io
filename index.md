@@ -27,27 +27,26 @@
 ## スキル
 **言語**
 
-HTML5/CSS3
-Swift
-Ruby
-PHP
-Python
-Scala
-Kotlin
-Go
-ReactNative
-C#
-
-Vue(入門中)
-Nuxt(入門中)
-Elm(入門中)
+HTML5/CSS3  
+Swift  
+Ruby  
+PHP  
+Python  
+Scala  
+Kotlin  
+Go  
+ReactNative  
+C#  
+Vue(入門中)  
+Nuxt(入門中)  
+Elm(入門中)  
 
 **フレームワーク**
 
-Ruby on Rails
-Laravel
-Play framework
-Django
+Ruby on Rails  
+Laravel  
+Play framework  
+Django  
 
 **その他**
 
