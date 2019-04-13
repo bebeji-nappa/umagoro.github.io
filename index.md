@@ -26,6 +26,7 @@
 
 ## スキル
 **・言語**
+
 HTML5/CSS3
 Swift
 Ruby
@@ -41,12 +42,14 @@ ReactNative
 C#
 
 **・フレームワーク**
+
 Ruby on Rails
 Laravel
 Play framework
 Django
 
 **・その他**
+
 Photoshop
 Illustrator
 Unity(少し)
