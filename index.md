@@ -1,8 +1,3 @@
----
-layout: default
-title: Yanashi
----
-
 # Yanashi
 某専門学校4年。25歳。前職は整体師。
 
