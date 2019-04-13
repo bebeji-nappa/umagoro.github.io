@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Yanashi
+title: やなし
 ---
 
 # Yanashi
