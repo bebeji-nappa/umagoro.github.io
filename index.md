@@ -51,7 +51,7 @@ Elm(入門中)
 
 Ruby on Rails  
 Laravel  
-Play framework(Scala)  
+Play framework for Scala(入門中) 
 Django  
 
 **その他**
