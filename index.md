@@ -43,8 +43,8 @@ Kotlin
 Go  
 ReactNative  
 C#(Unityで使用)  
-Vue(入門中)  
-Nuxt(入門中)  
+Vue.js(入門中)  
+Nuxt.js(入門中)  
 Elm(入門中)  
 
 **フレームワーク**
