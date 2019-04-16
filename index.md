@@ -2,7 +2,7 @@
 
 title: I'm Yanashi.
 
----
+i---
 
 # Yanashi
 某専門学校4年。25歳。前職は整体師。
@@ -42,7 +42,7 @@ Scala
 Kotlin  
 Go  
 ReactNative  
-C#  
+C#(Unityで使用)  
 Vue(入門中)  
 Nuxt(入門中)  
 Elm(入門中)  
@@ -51,14 +51,14 @@ Elm(入門中)
 
 Ruby on Rails  
 Laravel  
-Play framework  
+Play framework(Scala)  
 Django  
 
 **その他**
 
 Photoshop  
 Illustrator  
-Unity(少し)  
+Unity(ほんの少し)  
 
 ## 資格
 ITパスポート  
