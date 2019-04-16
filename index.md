@@ -2,7 +2,7 @@
 
 title: I'm Yanashi.
 
-i---
+---
 
 # Yanashi
 某専門学校4年。25歳。前職は整体師。
