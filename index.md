@@ -4,6 +4,9 @@ title: I'm Yanashi.
 
 ---
 
+
+[test](face.jpg "サンプル")
+
 # Yanashi
 某専門学校4年。25歳。前職は整体師。
 
